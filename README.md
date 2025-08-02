@@ -19,7 +19,7 @@
 project/
 ├── index.html
 ├── style.css
-└── Tablet_1024px.jpg
+└── Fueature-img.png
 
 </pre>
 
